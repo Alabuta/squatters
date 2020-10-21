@@ -1,2 +1,2 @@
 # squatters
-Yet another clone game
+Yet another clone game ;)
